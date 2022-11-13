@@ -57,3 +57,4 @@ def filter_even_odd(numbers,even_or_odd):
             print("EVEN")
         elif even_or_odd==True:
             print("ODD")
+# Variable Scope :
